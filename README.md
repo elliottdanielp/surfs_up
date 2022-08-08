@@ -1,10 +1,12 @@
-# surfs_up
+# Surfs_Up
 ---
+
 ## Overview of the Analysis
 
 W. Avy likes your analysis, but he wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
 
 For this analysis, temperature data for the months of June and December was investigated to find temperature trends. Using this data, a decison could be made on whether or not to open an ice cream shop/surf shop. So determining the right location and weather was crucial in order to make that happen.
+
 ---
 
 ![june_temps](https://user-images.githubusercontent.com/106495422/183449610-6f9c2d18-aa65-43f8-9ea6-2180c7bb6aba.png)
@@ -14,6 +16,7 @@ For this analysis, temperature data for the months of June and December was inve
 * At a first glance, the minimum temperatures for both months are lower during that time of year then expected. 
 * The maximum temperature for both had even less of a gap, with December only being 2 degrees cooler. 
 * The average temperatures for both months was actually very close. June had an average of 74 degrees and December had an average of 71 degrees. 
+
 ---
 
 ## Summary 
